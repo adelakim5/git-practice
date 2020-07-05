@@ -2,11 +2,11 @@
 
 ## Git Repo 만들기
 
-- [x] git init
-- [x] git remote 
-- [x] git add
-- [x] git commit
-- [x] git push
+- [ ] git init
+- [ ] git remote 
+- [ ] git add
+- [ ] git commit
+- [ ] git push
 
 ---
 
